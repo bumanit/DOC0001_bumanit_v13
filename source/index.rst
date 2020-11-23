@@ -1,0 +1,25 @@
+.. Bumanit V13 documentation master file, created by
+   sphinx-quickstart on Sat Nov 21 16:49:33 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+"Буман Ай Ти V13" хөгжүүлэлтийн багийн гарын авлагад тавтай морилно уу!
+=======================================================================
+
+Guide
+^^^^^
+
+.. toctree::
+   :maxdepth: 2
+
+   licence
+   help
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
