@@ -9,7 +9,8 @@ Depends
 ``bumanit_stock``
 ``purchase``
 
-
+Note
+-------
 .. note::
 
     This module include some extra settings options for install some bumanit's extensions.
