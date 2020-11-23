@@ -88,7 +88,7 @@
    bumanit_product_price_history <modules/howto.rst>
    bumanit_product_variant_price <modules/howto.rst>
    bumanit_psc <modules/howto.rst>
-   bumanit_purchase <modules/howto.rst>
+   bumanit_purchase <modules/bumanit_purchase.rst>
    bumanit_purchase_advance_payment <modules/howto.rst>
    bumanit_purchase_currency_rate <modules/howto.rst>
    bumanit_purchase_refund <modules/howto.rst>
