@@ -59,4 +59,20 @@ Github-с кодоо татах, эхлээд ``git`` суулгасан бай�
     - https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
 
 
+.. *******************
+.. Structural Elements
+.. *******************
+
+.. Document Section
+.. ================
+
+.. Document Subsection
+.. -------------------
+
+.. Document Subsubsection
+.. ^^^^^^^^^^^^^^^^^^^^^^
+
+.. Document Paragraph
+.. """"""""""""""""""
+
 АМЖИЛТ ХҮСЬЕ
