@@ -32,7 +32,7 @@
    bumanit_account_payment_epos <modules/howto.rst>
    bumanit_account_reports <modules/howto.rst>
    bumanit_analytic <modules/howto.rst>
-   bumanit_approval_request <modules/howto.rst>
+   bumanit_approval_request <modules/bumanit_approval_request.rst>
    bumanit_asset <modules/howto.rst>
    bumanit_asset <modules/howto.rst>
    bumanit_asset_first_balance <modules/howto.rst>
