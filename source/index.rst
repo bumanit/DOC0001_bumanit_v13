@@ -22,9 +22,9 @@
    :maxdepth: 1
    :caption: Модулийн жагсаалт
 
-   accounting_pdf_reports <modules/howto.rst>
-   aspl_pos_kitchen_screen_ee <modules/howto.rst>
-   base_accounting_kit <modules/howto.rst>
+   accounting_pdf_reports <modules/accounting_pdf_reports.rst>
+   aspl_pos_kitchen_screen_ee <modules/aspl_pos_kitchen_screen_ee.rst>
+   base_accounting_kit <modules/base_accounting_kit.rst>
    bumanit_account <modules/bumanit_account.rst>
    bumanit_account_journal_security <modules/howto.rst>
    bumanit_account_online_sync <modules/howto.rst>
@@ -47,7 +47,7 @@
    bumanit_contacts <modules/howto.rst>
    bumanit_currency_rate_live <modules/howto.rst>
    bumanit_cw_mgl <modules/howto.rst>
-   bumanit_ebarimt <modules/howto.rst>
+   bumanit_ebarimt <modules/bumanit_ebarimt.rst>
    bumanit_eorder_webservice <modules/howto.rst>
    bumanit_helpdesk <modules/howto.rst>
    bumanit_hidden_group <modules/howto.rst>
@@ -104,7 +104,7 @@
    bumanit_sale_readonly_price <modules/howto.rst>
    bumanit_sale_refund <modules/howto.rst>
    bumanit_sales_manager_plan <modules/howto.rst>
-   bumanit_stock <modules/howto.rst>
+   bumanit_stock <modules/bumanit_stock.rst>
    bumanit_stock_barcode <modules/howto.rst>
    bumanit_stock_internal_expense <modules/howto.rst>
    bumanit_stock_inventory_import <modules/howto.rst>
