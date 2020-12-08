@@ -35,10 +35,10 @@
    bumanit_approval_request <modules/bumanit_approval_request.rst>
    bumanit_asset <modules/howto.rst>
    bumanit_asset <modules/howto.rst>
-   bumanit_asset_first_balance <modules/howto.rst>
+   bumanit_asset_first_balance <modules/bumanit_asset_first_balance.rst>
    bumanit_asset_invoice <modules/howto.rst>
-   bumanit_asset_ownership <modules/howto.rst>
-   bumanit_asset_report <modules/howto.rst>
+   bumanit_asset_ownership <modules/bumanit_asset_ownership.rst>
+   bumanit_asset_report <modules/bumanit_asset_report.rst>
    bumanit_auditlog <modules/howto.rst>
    bumanit_auto_put_in_pack <modules/howto.rst>
    bumanit_bi <modules/howto.rst>
@@ -46,7 +46,7 @@
    bumanit_connector <modules/howto.rst>
    bumanit_contacts <modules/howto.rst>
    bumanit_currency_rate_live <modules/howto.rst>
-   bumanit_cw_mgl <modules/howto.rst>
+   bumanit_cw_mgl <modules/bumanit_cw_mgl.rst>
    bumanit_ebarimt <modules/bumanit_ebarimt.rst>
    bumanit_eorder_webservice <modules/howto.rst>
    bumanit_helpdesk <modules/howto.rst>
@@ -84,7 +84,7 @@
    bumanit_picking_assign <modules/howto.rst>
    bumanit_pricelist_import <modules/howto.rst>
    bumanit_product_code <modules/howto.rst>
-   bumanit_product_customer_code <modules/howto.rst>
+   bumanit_product_customer_code <modules/bumanit_product_customer_code.rst>
    bumanit_product_expiry_date <modules/howto.rst>
    bumanit_product_pharmacy_types <modules/howto.rst>
    bumanit_product_price_history <modules/howto.rst>

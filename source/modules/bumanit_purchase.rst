@@ -14,8 +14,8 @@ Bumanit Purchase Extension
 Уялдаа холбоо
 =============
 
-| ``bumanit_stock``   
-| ``purchase``  
+| ``purchase``
+| :doc:`bumanit_stock <bumanit_stock>`  
 
 bumanit_purchase модулийг суулгавал дээрх 2 модуль дагаж суух болно
 
@@ -36,6 +36,5 @@ Odoo v13 худалдан авалт модулийн өргөтгөл бөгө�
 
 Системийн ерөнхий тохиргоонд хийгдсэн хөгжүүлэлтүүд
 -------------------------------------------------------------
-|Purchase Required Analityc Account (multi company)
-
-|Modify Purchase Price Approve Manager (multi company)
+1. Purchase Required Analityc Account (multi company)
+2. Modify Purchase Price Approve Manager (multi company)
