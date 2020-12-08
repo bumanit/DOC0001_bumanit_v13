@@ -55,7 +55,7 @@
    bumanit_hr_annual_wage <modules/howto.rst>
    bumanit_hr_attendance <modules/howto.rst>
    bumanit_hr_attendance_leave_report <modules/howto.rst>
-   bumanit_hr_attendance_request <modules/howto.rst>
+   bumanit_hr_attendance_request <modules/bumanit_hr_attendance_request.rst>
    bumanit_hr_biometric_integrate <modules/howto.rst>
    bumanit_hr_dashboard <modules/howto.rst>
    bumanit_hr_expense <modules/howto.rst>
