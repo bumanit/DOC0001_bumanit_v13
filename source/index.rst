@@ -116,7 +116,7 @@
    bumanit_time_holding <modules/howto.rst>
    bumanit_transit <modules/bumanit_transit.rst>
    bumanit_time_holding <modules/bumanit_time_holding.rst>
-   bumanit_warehouse_visualization <modules/howto.rst>
+   bumanit_warehouse_visualization <modules/bumanit_warehouse_visualization.rst>
    bumanit_website <modules/howto.rst>
    export_stockinfo_xls <modules/howto.rst>
    hr_contract_types <modules/howto.rst>
