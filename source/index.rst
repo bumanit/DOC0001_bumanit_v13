@@ -33,7 +33,7 @@
    bumanit_account_reports <modules/howto.rst>
    bumanit_analytic <modules/howto.rst>
    bumanit_approval_request <modules/bumanit_approval_request.rst>
-   bumanit_asset <modules/howto.rst>
+   bumanit_asset <modules/bumanit_asset.rst>
    bumanit_asset <modules/howto.rst>
    bumanit_asset_first_balance <modules/howto.rst>
    bumanit_asset_invoice <modules/howto.rst>
@@ -60,6 +60,7 @@
    bumanit_hr_dashboard <modules/howto.rst>
    bumanit_hr_expense <modules/howto.rst>
    bumanit_hr_kpi <modules/howto.rst>
+   bumanit_internal_expense <modules/bumanit_internal_expense.rst>
    bumanit_insurance_management <modules/howto.rst>
    bumanit_inter_company <modules/howto.rst>
    bumanit_invoice_adjustment <modules/howto.rst>
@@ -114,7 +115,7 @@
    bumanit_stock_rule <modules/howto.rst>
    bumanit_task_report <modules/howto.rst>
    bumanit_time_holding <modules/howto.rst>
-   bumanit_transit <modules/howto.rst>
+   bumanit_transit <modules/bumanit_transit.rst>
    bumanit_warehouse_visualization <modules/howto.rst>
    bumanit_website <modules/howto.rst>
    export_stockinfo_xls <modules/howto.rst>
