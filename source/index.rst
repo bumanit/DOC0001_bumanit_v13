@@ -48,7 +48,7 @@
    bumanit_currency_rate_live <modules/howto.rst>
    bumanit_cw_mgl <modules/bumanit_cw_mgl.rst>
    bumanit_ebarimt <modules/bumanit_ebarimt.rst>
-   bumanit_eorder_webservice <modules/howto.rst>
+   bumanit_eorder_webservice <modules/bumanit_eorder_webservice.rst>
    bumanit_helpdesk <modules/howto.rst>
    bumanit_hidden_group <modules/howto.rst>
    bumanit_hr <modules/howto.rst>
