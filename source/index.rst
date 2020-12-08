@@ -34,12 +34,7 @@
    bumanit_analytic <modules/howto.rst>
    bumanit_approval_request <modules/bumanit_approval_request.rst>
    bumanit_asset <modules/bumanit_asset.rst>
-<<<<<<< HEAD
-   bumanit_asset <modules/howto.rst>
-   bumanit_asset_first_balance <modules/howto.rst>
-=======
    bumanit_asset_first_balance <modules/bumanit_asset_first_balance.rst>
->>>>>>> 73973668aa9513ce015b39a0472b973cc4c4a8cc
    bumanit_asset_invoice <modules/howto.rst>
    bumanit_asset_ownership <modules/bumanit_asset_ownership.rst>
    bumanit_asset_report <modules/bumanit_asset_report.rst>
@@ -111,20 +106,16 @@
    bumanit_sales_manager_plan <modules/howto.rst>
    bumanit_stock <modules/bumanit_stock.rst>
    bumanit_stock_barcode <modules/howto.rst>
-   bumanit_stock_internal_expense <modules/howto.rst>
+   bumanit_stock_internal_expense <modules/bumanit_stock_internal_expense.rst>
    bumanit_stock_inventory_import <modules/howto.rst>
    bumanit_stock_permission <modules/howto.rst>
    bumanit_stock_picking_cart <modules/howto.rst>
    bumanit_stock_report <modules/howto.rst>
    bumanit_stock_rule <modules/bumanit_stock_rule.rst>
    bumanit_task_report <modules/howto.rst>
-<<<<<<< HEAD
    bumanit_time_holding <modules/howto.rst>
    bumanit_transit <modules/bumanit_transit.rst>
-=======
    bumanit_time_holding <modules/bumanit_time_holding.rst>
-   bumanit_transit <modules/howto.rst>
->>>>>>> 73973668aa9513ce015b39a0472b973cc4c4a8cc
    bumanit_warehouse_visualization <modules/howto.rst>
    bumanit_website <modules/howto.rst>
    export_stockinfo_xls <modules/howto.rst>
