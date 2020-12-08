@@ -113,7 +113,7 @@
    bumanit_stock_report <modules/howto.rst>
    bumanit_stock_rule <modules/bumanit_stock_rule.rst>
    bumanit_task_report <modules/howto.rst>
-   bumanit_time_holding <modules/howto.rst>
+   bumanit_time_holding <modules/bumanit_time_holding.rst>
    bumanit_transit <modules/howto.rst>
    bumanit_warehouse_visualization <modules/howto.rst>
    bumanit_website <modules/howto.rst>
