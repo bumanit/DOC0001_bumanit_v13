@@ -1,21 +1,40 @@
-============================
+****************************
 Bumanit Purchase Extension
-============================
+****************************
 
-Depends
--------
+.. |
 
+Техникийн нэр
+=============
 
-``bumanit_stock``
-``purchase``
+``bumanit_purchase``
 
-Note
--------
-.. note::
+.. |
 
-    This module include some extra settings options for install some bumanit's extensions.
+Уялдаа холбоо
+=============
 
-        Following modules can be installed
-            - Purchase Order added analytic_account to change line analytic_account
-            - Purchase Order Line Taxes_id add group
-            - Purchase Pivot Add Product brand
+| ``purchase``
+| :doc:`bumanit_stock <bumanit_stock>`  
+
+bumanit_purchase модулийг суулгавал дээрх 2 модуль дагаж суух болно
+
+Тайлбар
+=======
+
+Odoo v13 худалдан авалт модулийн өргөтгөл бөгөөд өөрсдийн шаардлагын хүрээнд дахин засварлаж
+нэмэлт боломжуудаар хангаж өгсөн
+
+.. |
+
+Хөгжүүлэлт
+==========
+
+1. Худалдан авалтын үндсэн аналитик данс
+2. Худалдан авалтын мөр дээрх татварын нэмэлт групп
+3. Худалдан авалтын барааны брэнд пивот тайлан
+
+Системийн ерөнхий тохиргоонд хийгдсэн хөгжүүлэлтүүд
+-------------------------------------------------------------
+1. Purchase Required Analityc Account (multi company)
+2. Modify Purchase Price Approve Manager (multi company)

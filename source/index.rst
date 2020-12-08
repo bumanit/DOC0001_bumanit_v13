@@ -22,9 +22,9 @@
    :maxdepth: 1
    :caption: Модулийн жагсаалт
 
-   accounting_pdf_reports <modules/howto.rst>
-   aspl_pos_kitchen_screen_ee <modules/howto.rst>
-   base_accounting_kit <modules/howto.rst>
+   accounting_pdf_reports <modules/accounting_pdf_reports.rst>
+   aspl_pos_kitchen_screen_ee <modules/aspl_pos_kitchen_screen_ee.rst>
+   base_accounting_kit <modules/base_accounting_kit.rst>
    bumanit_account <modules/bumanit_account.rst>
    bumanit_account_journal_security <modules/howto.rst>
    bumanit_account_online_sync <modules/howto.rst>
@@ -34,11 +34,15 @@
    bumanit_analytic <modules/howto.rst>
    bumanit_approval_request <modules/bumanit_approval_request.rst>
    bumanit_asset <modules/bumanit_asset.rst>
+<<<<<<< HEAD
    bumanit_asset <modules/howto.rst>
    bumanit_asset_first_balance <modules/howto.rst>
+=======
+   bumanit_asset_first_balance <modules/bumanit_asset_first_balance.rst>
+>>>>>>> 73973668aa9513ce015b39a0472b973cc4c4a8cc
    bumanit_asset_invoice <modules/howto.rst>
-   bumanit_asset_ownership <modules/howto.rst>
-   bumanit_asset_report <modules/howto.rst>
+   bumanit_asset_ownership <modules/bumanit_asset_ownership.rst>
+   bumanit_asset_report <modules/bumanit_asset_report.rst>
    bumanit_auditlog <modules/howto.rst>
    bumanit_auto_put_in_pack <modules/howto.rst>
    bumanit_bi <modules/howto.rst>
@@ -46,16 +50,16 @@
    bumanit_connector <modules/howto.rst>
    bumanit_contacts <modules/howto.rst>
    bumanit_currency_rate_live <modules/howto.rst>
-   bumanit_cw_mgl <modules/howto.rst>
-   bumanit_ebarimt <modules/howto.rst>
-   bumanit_eorder_webservice <modules/howto.rst>
+   bumanit_cw_mgl <modules/bumanit_cw_mgl.rst>
+   bumanit_ebarimt <modules/bumanit_ebarimt.rst>
+   bumanit_eorder_webservice <modules/bumanit_eorder_webservice.rst>
    bumanit_helpdesk <modules/howto.rst>
    bumanit_hidden_group <modules/howto.rst>
    bumanit_hr <modules/howto.rst>
    bumanit_hr_annual_wage <modules/howto.rst>
    bumanit_hr_attendance <modules/howto.rst>
    bumanit_hr_attendance_leave_report <modules/howto.rst>
-   bumanit_hr_attendance_request <modules/howto.rst>
+   bumanit_hr_attendance_request <modules/bumanit_hr_attendance_request.rst>
    bumanit_hr_biometric_integrate <modules/howto.rst>
    bumanit_hr_dashboard <modules/howto.rst>
    bumanit_hr_expense <modules/howto.rst>
@@ -85,12 +89,12 @@
    bumanit_picking_assign <modules/howto.rst>
    bumanit_pricelist_import <modules/howto.rst>
    bumanit_product_code <modules/howto.rst>
-   bumanit_product_customer_code <modules/howto.rst>
+   bumanit_product_customer_code <modules/bumanit_product_customer_code.rst>
    bumanit_product_expiry_date <modules/howto.rst>
    bumanit_product_pharmacy_types <modules/howto.rst>
    bumanit_product_price_history <modules/howto.rst>
    bumanit_product_variant_price <modules/howto.rst>
-   bumanit_psc <modules/howto.rst>
+   bumanit_psc <modules/bumanit_psc.rst>
    bumanit_purchase <modules/bumanit_purchase.rst>
    bumanit_purchase_advance_payment <modules/howto.rst>
    bumanit_purchase_currency_rate <modules/howto.rst>
@@ -102,20 +106,25 @@
    bumanit_sale_order_route <modules/howto.rst>
    bumanit_sale_picking_auto_done <modules/howto.rst>
    bumanit_sale_prepayment <modules/howto.rst>
-   bumanit_sale_readonly_price <modules/howto.rst>
+   bumanit_sale_readonly_price <modules/bumanit_sale_readonly_price.rst>
    bumanit_sale_refund <modules/howto.rst>
    bumanit_sales_manager_plan <modules/howto.rst>
-   bumanit_stock <modules/howto.rst>
+   bumanit_stock <modules/bumanit_stock.rst>
    bumanit_stock_barcode <modules/howto.rst>
    bumanit_stock_internal_expense <modules/howto.rst>
    bumanit_stock_inventory_import <modules/howto.rst>
    bumanit_stock_permission <modules/howto.rst>
    bumanit_stock_picking_cart <modules/howto.rst>
    bumanit_stock_report <modules/howto.rst>
-   bumanit_stock_rule <modules/howto.rst>
+   bumanit_stock_rule <modules/bumanit_stock_rule.rst>
    bumanit_task_report <modules/howto.rst>
+<<<<<<< HEAD
    bumanit_time_holding <modules/howto.rst>
    bumanit_transit <modules/bumanit_transit.rst>
+=======
+   bumanit_time_holding <modules/bumanit_time_holding.rst>
+   bumanit_transit <modules/howto.rst>
+>>>>>>> 73973668aa9513ce015b39a0472b973cc4c4a8cc
    bumanit_warehouse_visualization <modules/howto.rst>
    bumanit_website <modules/howto.rst>
    export_stockinfo_xls <modules/howto.rst>
