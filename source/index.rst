@@ -101,7 +101,7 @@
    bumanit_sale_order_route <modules/howto.rst>
    bumanit_sale_picking_auto_done <modules/howto.rst>
    bumanit_sale_prepayment <modules/howto.rst>
-   bumanit_sale_readonly_price <modules/howto.rst>
+   bumanit_sale_readonly_price <modules/bumanit_sale_readonly_price.rst>
    bumanit_sale_refund <modules/howto.rst>
    bumanit_sales_manager_plan <modules/howto.rst>
    bumanit_stock <modules/bumanit_stock.rst>
