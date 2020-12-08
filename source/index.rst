@@ -33,8 +33,7 @@
    bumanit_account_reports <modules/howto.rst>
    bumanit_analytic <modules/howto.rst>
    bumanit_approval_request <modules/bumanit_approval_request.rst>
-   bumanit_asset <modules/howto.rst>
-   bumanit_asset <modules/howto.rst>
+   bumanit_asset <modules/bumanit_asset.rst>
    bumanit_asset_first_balance <modules/bumanit_asset_first_balance.rst>
    bumanit_asset_invoice <modules/howto.rst>
    bumanit_asset_ownership <modules/bumanit_asset_ownership.rst>
