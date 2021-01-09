@@ -63,7 +63,7 @@
     bumanit_mrp <modules/howto.rst>
     bumanit_mrp_report <modules/howto.rst>
     bumanit_navixy_connector <modules/bumanit_navixy_connector.rst>
-    bumanit_odoo_connector <modules/howto.rst>
+    bumanit_odoo_connector <modules/bumanit_odoo_connector.rst>
     bumanit_partner <modules/howto.rst>
     bumanit_partner_contract <modules/howto.rst>
     bumanit_picking_assign <modules/howto.rst>
