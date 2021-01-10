@@ -17,7 +17,7 @@ Attendance Change Request
 | ``hr``
 | ``stock``
 | ``base``
-| :doc:`hr_attendance <hr_attendance>`  
+| ``hr_attendance <hr_attendance>``  
 | ``hr_holidays``
 
 

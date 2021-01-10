@@ -17,7 +17,7 @@ CW MGL extensions
 | ``base``
 | ``account``
 | ``sale``
-| :doc:`bumanit_product_customer_code <bumanit_product_customer_code>`  
+| :doc:`bumanit_product_customer_code <../bumanit_product_customer_code>`  
 
 
 bumanit_cw_mgl модулийг суулгавал дээрх 4 модуль дагаж суух болно

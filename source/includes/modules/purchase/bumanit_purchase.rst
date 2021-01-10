@@ -15,7 +15,7 @@ Bumanit Purchase Extension
 =============
 
 | ``purchase``
-| :doc:`bumanit_stock <bumanit_stock>`  
+| :doc:`bumanit_stock <../stock/bumanit_stock>`  
 
 bumanit_purchase модулийг суулгавал дээрх 2 модуль дагаж суух болно
 
