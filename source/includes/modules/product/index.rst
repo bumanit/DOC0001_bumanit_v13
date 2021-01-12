@@ -14,3 +14,4 @@
     bumanit_product_price_history <../../modules/howto.rst>
     bumanit_product_variant_price <../../modules/howto.rst>
     bumanit_monos_product <../../modules/howto.rst>
+    bumanit_multi_barcode <bumanit_multi_barcode.rst>
