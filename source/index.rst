@@ -24,3 +24,4 @@
    Модулийн жагсаалт <includes/modules.rst>
    Түгээмэл гардаг асуулт хариулт <includes/faqs.rst>
    Асуудлууд <includes/problems.rst>
+   Техникийн гарын авлага <includes/technical/index.rst>
