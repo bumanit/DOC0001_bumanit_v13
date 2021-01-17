@@ -1,5 +1,5 @@
 ************************************
-Хэрэглэгчийн гарын авлага
+User Guides
 ************************************
 
 Админ хэрэглэгчтэй холбоотой нэмэлт тохиргоонууд асуудлын шалгалтуудыг хэрхэн хийх талаар
@@ -12,6 +12,6 @@
 .. toctree::
     :maxdepth: 1
 
-    Харилцагчийн урамшууллын гэрээ <guides/partner_contract.rst>
-    Odoo 10 болон 13 хоорондын интеграци <guides/10_13_integration.rst>
-    Odoo 13 болон 13 хоорондын интеграци <guides/13_13_integration.rst>
+    Харилцагчийн урамшууллын гэрээ <includes/guides/partner_contract.rst>
+    Odoo 10 болон 13 хоорондын интеграци <includes/guides/10_13_integration.rst>
+    Odoo 13 болон 13 хоорондын интеграци <includes/guides/13_13_integration.rst>

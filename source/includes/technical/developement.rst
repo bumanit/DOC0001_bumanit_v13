@@ -3,7 +3,7 @@
 
 
 ****************************************************
-Prepare Odoo development environment
+Prepare Odoo Development Environment
 ****************************************************
 
 In this guide we assume Odoo 13.0 version
@@ -75,7 +75,7 @@ Pull code from github
 Preparing python virtual environment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-..  code::
+..  code:: console
 
     $ python3 -m pip install virtualenv
     $ python3 -m virtualenv venv
@@ -103,6 +103,6 @@ Run
 ^^^^^^^^^^^^^^^^^^^^^
 
 
-..  code::
+..  code:: console
 
     $ ./odoo-bin -c ../odoo.conf
