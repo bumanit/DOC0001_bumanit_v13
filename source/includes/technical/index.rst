@@ -8,6 +8,7 @@
 .. toctree::
     :maxdepth: 1
 
-    Бичиг баримт боловсруулах <guide.rst>
-    Posapi тохируулах <posapi.rst>
+    guide
+    developement
+    posapi
     docker
