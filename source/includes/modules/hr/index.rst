@@ -15,7 +15,7 @@
     bumanit_hr_biometric_integrate <../../modules/howto.rst>
     bumanit_hr_dashboard <bumanit_hr_dashboard.rst>
     bumanit_hr_expense <../../modules/howto.rst>
-    bumanit_hr_kpi <../../modules/howto.rst>
+    bumanit_hr_kpi <bumanit_hr_kpi.rst>
     hr_contract_types <../../modules/howto.rst>
     hr_employee_updation <../../modules/howto.rst>
     hrms_dashboard <../../modules/howto.rst>
