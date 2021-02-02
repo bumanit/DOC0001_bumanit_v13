@@ -16,7 +16,6 @@ Bumanit eBarimt.mn Integration
 =============
 
 | :doc:`sale <rtd:sale>`
-| :doc:`bumanit_account <bumanit_account>`
 | :doc:`bumanit_stock <bumanit_stock>`
 
 Тайлбар
