@@ -54,6 +54,6 @@ html_theme = "sphinx_rtd_theme"
 # html_static_path = ["_static"]
 
 latex_engine = "xelatex"
-latex_use_xindy = True
+# latex_use_xindy = True
 
 # language = "mn"
