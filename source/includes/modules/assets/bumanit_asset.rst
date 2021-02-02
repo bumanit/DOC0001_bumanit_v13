@@ -20,6 +20,7 @@ Bumanit Asset
 | :doc:`bumanit_asset_ownership <bumanit_asset_ownership>`  
 | :doc:`bumanit_asset_first_balance <bumanit_asset_first_balance>`  
 | :doc:`bumanit_time_holding <bumanit_time_holding>`  
+| :doc:`bumanit_account <bumanit_account>`  
 
 bumanit_asset модулийг суулгавал дээрх 7 модуль дагаж суух болно
 
