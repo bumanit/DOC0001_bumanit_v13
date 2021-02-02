@@ -17,6 +17,7 @@ Module Guides
     Asset <includes/modules/assets/index.rst>
     Human Resource <includes/modules/hr/index.rst>
     Salary <includes/modules/salary/index.rst>
+    Manufacturing <includes/modules/manufacturing/index.rst>
     Bridge <includes/modules/bridge/index.rst>
     SAAS <includes/modules/saas/index.rst>
     Other <includes/modules/other/index.rst>
