@@ -53,26 +53,25 @@ html_theme = "sphinx_rtd_theme"
 # so a file named "default.css" will overwrite the builtin "default.css".
 # html_static_path = ["_static"]
 
-latex_engine = "xelatex"
 # latex_use_xindy = True
+# inside conf.py
+latex_engine = "xelatex"
 latex_elements = {
-    # The paper size ('letterpaper' or 'a4paper').
-    "papersize": "a4paper",
-    # The font size ('10pt', '11pt' or '12pt').
-    "pointsize": "12pt",
     "fontpkg": r"""
-\PassOptionsToPackage{bookmarksnumbered}{hyperref}
-
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
 """,
-    # Additional stuff for the LaTeX preamble.
     "preamble": r"""
-\usepackage{setspace}
+\usepackage[titles]{tocloft}
+\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+\setlength{\cftchapnumwidth}{0.75cm}
+\setlength{\cftsecindent}{\cftchapnumwidth}
+\setlength{\cftsecnumwidth}{1.25cm}
 """,
-    "footer": r"""
-""",
-    "maketitle": r"""
-\pagenumbering{arabic}
-""",
+    "fncychap": r"\usepackage[Bjornstrup]{fncychap}",
+    "printindex": r"\footnotesize\raggedright\printindex",
 }
+latex_show_urls = "footnote"
 
 # language = "mn"
