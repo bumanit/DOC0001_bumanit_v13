@@ -20,8 +20,8 @@
 .. toctree::
    :maxdepth: 1
 
-   Хэрэглэгчийн гарын авлага <includes/guides.rst>
-   Модулийн жагсаалт <includes/modules.rst>
-   Түгээмэл гардаг асуулт хариулт <includes/faqs.rst>
-   Асуудлууд <includes/problems.rst>
-   Техникийн гарын авлага <includes/technical/index.rst>
+   user_guides
+   module_guides
+   faqs
+   problems
+   Technical Guide <includes/technical/index.rst>
