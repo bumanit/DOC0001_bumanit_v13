@@ -12,7 +12,7 @@
     base_accounting_kit <base_accounting_kit.rst>
     bumanit_account <bumanit_account.rst>
     bumanit_account_journal_security <../../modules/howto.rst>
-    bumanit_account_online_sync <../../modules/howto.rst>
+    bumanit_account_online_sync <bumanit_account_online_sync.rst>
     bumanit_account_payment <../../modules/howto.rst>
     bumanit_account_payment_epos <../../modules/howto.rst>
     bumanit_account_reports <../../modules/howto.rst>
