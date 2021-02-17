@@ -7,6 +7,4 @@
 
     bumanit_asset <bumanit_asset.rst>
     bumanit_asset_first_balance <bumanit_asset_first_balance.rst>
-    bumanit_asset_invoice <../../modules/howto.rst>
     bumanit_asset_ownership <bumanit_asset_ownership.rst>
-    bumanit_asset_report <bumanit_asset_report.rst>
