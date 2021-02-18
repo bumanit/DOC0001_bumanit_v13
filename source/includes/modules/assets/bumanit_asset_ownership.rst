@@ -41,24 +41,24 @@
     1.8 Очсон байрлал г.м мэдээллийг агуулна
 
 .. figure::
-    ../../../img/modules/bumanit_asset_first_balance/transfer.png
+    ../../../img/modules/bumanit_asset_ownership/transfer.png
 
 2. Хөрөнгө шинээр бүртгэх үед ажилтан болон байрлал сонгох. (Шилжүүлхээс өмнөх зураг болно) 
 
 .. figure::
-    ../../../img/modules/bumanit_asset_first_balance/transfer2.png
+    ../../../img/modules/bumanit_asset_ownership/transfer2.png
 
 3. Тухайн хөрөнгөө өөр ажилтанд шилжүүлэхдээ хөрөнгө шилжүүлэг гэсэн товч дээр дарна.
 
 .. figure::
-    ../../../img/modules/bumanit_asset_first_balance/transfer3.png
+    ../../../img/modules/bumanit_asset_ownership/transfer3.png
 
 4. Ингэснээр цонх нээгдэх ба шилжүүлэх эзэмшигч, байрлал, огноог оруулан нэмэлтээр шинжилгээний данс болон пайз тэмдэглэл нэмэлтээр оруулж болно.
 
 .. figure::
-    ../../../img/modules/bumanit_asset_first_balance/transfer4.png
+    ../../../img/modules/bumanit_asset_ownership/transfer4.png
 
 5. Шилжүүлэг хийгдсний дараах харагдац
 
 .. figure::
-    ../../../img/modules/bumanit_asset_first_balance/transfer5.png
+    ../../../img/modules/bumanit_asset_ownership/transfer5.png
