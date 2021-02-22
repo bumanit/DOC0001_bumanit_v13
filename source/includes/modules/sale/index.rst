@@ -7,7 +7,7 @@
 ..  toctree::
     :maxdepth: 1
     
-    bumanit_sale <../../modules/howto.rst>
+    bumanit_sale <bumanit_sale.rst>
     bumanit_sale_availability <../../modules/howto.rst>
     bumanit_sale_barter <../../modules/howto.rst>
     bumanit_sale_order_route <../../modules/howto.rst>
