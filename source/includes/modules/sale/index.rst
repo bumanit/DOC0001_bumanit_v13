@@ -9,8 +9,8 @@
 
     bumanit_sale <bumanit_sale.rst>
     bumanit_sale_availability <bumanit_sale_availability.rst>
-    bumanit_sale_barter <bumanit_sale_barter.rst>
-    bumanit_sale_order_route <bumanit_sale_order_route.rst>
+    bumanit_sale_barter <../../modules/howto.rst>
+    bumanit_sale_order_route <../../modules/howto.rst>
     bumanit_sale_picking_auto_done <bumanit_sale_picking_auto_done.rst>
     bumanit_sale_prepayment <../../modules/howto.rst>
     bumanit_sale_readonly_price <bumanit_sale_readonly_price.rst>
