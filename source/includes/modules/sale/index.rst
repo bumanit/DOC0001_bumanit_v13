@@ -11,7 +11,7 @@
     bumanit_sale_availability <bumanit_sale_availability.rst>
     bumanit_sale_order_route <bumanit_sale_order_route.rst>
     bumanit_sale_picking_auto_done <bumanit_sale_picking_auto_done.rst>
-    bumanit_sale_prepayment <../../modules/howto.rst>
+    bumanit_sale_prepayment <bumanit_sale_prepayment.rst>
     bumanit_sale_readonly_price <bumanit_sale_readonly_price.rst>
     bumanit_sale_refund <bumanit_sale_refund.rst>
     bumanit_sales_manager_plan <../../modules/howto.rst>
