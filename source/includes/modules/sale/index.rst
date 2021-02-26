@@ -14,5 +14,5 @@
     bumanit_sale_prepayment <bumanit_sale_prepayment.rst>
     bumanit_sale_readonly_price <bumanit_sale_readonly_price.rst>
     bumanit_sale_refund <bumanit_sale_refund.rst>
-    bumanit_sales_manager_plan <../../modules/howto.rst>
-    bumanit_pricelist_import <../../modules/howto.rst>
+    bumanit_pricelist <bumanit_pricelist.rst>
+    bumanit_pricelist_import <bumanit_pricelist_import.rst>
