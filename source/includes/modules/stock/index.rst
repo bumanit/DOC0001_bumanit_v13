@@ -10,7 +10,7 @@
     bumanit_stock <bumanit_stock.rst>
     bumanit_stock_barcode <../../modules/howto.rst>
     bumanit_stock_internal_expense <bumanit_stock_internal_expense.rst>
-    bumanit_stock_inventory_import <../../modules/howto.rst>
+    bumanit_stock_inventory_import <bumanit_stock_inventory_import.rst>
     bumanit_stock_permission <../../modules/howto.rst>
     bumanit_stock_picking_cart <../../modules/howto.rst>
     bumanit_stock_report <../../modules/howto.rst>
